@@ -45,5 +45,7 @@ replicaset.apps/bbg-hello-world-5595bd8f8c   1         1         1       13m
 ```
 
 5. Access the application using the LB URL
+![](https://github.com/ajayrudresh/k8s-helm-hello-world/blob/main/contents/bbg-helm.PNG)
+
 
 
